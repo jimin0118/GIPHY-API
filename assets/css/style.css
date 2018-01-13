@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://i.imgur.com/4i5BYe6.jpg");
+    height: 100%; 
+    margin: 0;
+}
+
+form {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+#heroButtons {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+}
+
+p {
+    margin-bottom: -20px;
+}
+
+#submitButton{
+    flex-wrap: wrap;
+    margin: 10px 5px 35px 20px;
+}
+
+#heroGif{
+    float: left;
+    display: flex;
+    max-width: 80%;
+    flex-wrap: wrap;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.image {
+    margin-left: 10%;
+}
+
+
